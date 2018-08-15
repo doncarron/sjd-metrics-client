@@ -1,6 +1,7 @@
 {
   "name": "sjd-metrics-client",
   "version": "0.1.0",
+  "homepage": "https://doncarron.github.io/sjd-metrics-client/build/",
   "private": true,
   "dependencies": {
     "react": "^16.4.2",
